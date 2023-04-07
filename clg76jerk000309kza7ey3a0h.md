@@ -3,6 +3,7 @@ title: "坐上语言这架直升机，跨领域不是问题"
 datePublished: Fri Apr 07 2023 23:30:09 GMT+0000 (Coordinated Universal Time)
 cuid: clg76jerk000309kza7ey3a0h
 slug: 5z2q5lik6kt6kia6lz5p6255u05y2h5py677ym6leo6akg5zf5lin5piv6zeu6aky
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680911431701/6978c439-20fc-4906-a27d-f3613ea6ba0d.jpeg
 tags: domain-driven-design
 
 ---
